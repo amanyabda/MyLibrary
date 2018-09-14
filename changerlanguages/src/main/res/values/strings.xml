@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyAppliction2</string>
+
+        <string name="text_translation">Hi and welcome ,
+        here you will learn how to change language android app to anther .</string>
+
+        <string-array name="language_option">
+            <item>English</item>
+            <item>Arabic</item>
+        </string-array>
+    </resources>
